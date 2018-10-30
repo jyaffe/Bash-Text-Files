@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-read -p "Your name? " name
+read -p "What is your name? " name
 if [[ $name = $USER ]]; then
 	echo "Hello, me! "
 else
