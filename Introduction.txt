@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Ask the user for their name
 
-echo Hi, who am I talking to?
+echo Hello, who am I talking to?
 
 read varname
 
