@@ -1,11 +1,7 @@
 #!/usr/bin/env bash
 # Ask the user for their name
 
-<<<<<<< HEAD
 echo Hello, who am I talking to?
-=======
-echo Hey, who am I talking to?
->>>>>>> experimental
 
 read varname
 
